@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rao-Lakshya
-- 👀 I’m interested in C/C++
+- 👀 I’m interested in C++ DSA and Python
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on projects in which I may learn and get experienced
 - 📫 How to reach me ...
